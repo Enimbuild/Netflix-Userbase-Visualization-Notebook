@@ -23,5 +23,5 @@ All the plots are in the <a href="https://github.com/Enimbuild/Netflix-Userbase-
  + 14. Calculate R-squared value
  + 15. Predict revenue for new data points
 
- <img src="Age Group Distribution.png"> <img src="Subscription Type.png"> <img src="Subscription Type.png"> <br> 
+ <img src="Age Group Distribution.png"> <img src="Subscription Type.png"> <img src="Gender Distribution.png"> <br> 
  <img src="correlation matrix.png"> <img src="monthly revenue.png"> <img src="user distribution by country.png">
