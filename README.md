@@ -4,7 +4,7 @@ This Data Analysis notebook offers an accessible introduction to exploratory dat
  The notebook serves as an entry point for beginners to gain hands-on experience in data analysis and visualization, introducing them to the powerful Python library commonly used for data exploration.
 
 # Plot data
-All the plots are in the <a href="">./Analysis.ipynb</a>
+All the plots are in the <a href="https://github.com/Enimbuild/Netflix-Userbase-Visualization-Notebook/blob/main/Analysis.ipynb">./Analysis.ipynb</a>
 
  # Table of Contents
  + 1. Descriptive Statistics
