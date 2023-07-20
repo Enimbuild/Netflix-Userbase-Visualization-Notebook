@@ -4,7 +4,7 @@ This Data Analysis notebook offers an accessible introduction to exploratory dat
  The notebook serves as an entry point for beginners to gain hands-on experience in data analysis and visualization, introducing them to the powerful Python library commonly used for data exploration.
 
 # Plot data
-All the plots are in the Analysis.ipynb
+All the plots are in the ./Analysis.ipynb
 
  # Table of Contents
  + 1. Descriptive Statistics
